@@ -1,6 +1,3 @@
-# Data-and-code-for-Precipitation-nowcasting
-
-Update path for datafiles before testing code
+# Data-for-Precipitation-nowcasting
 
 
-Use CGAN_with_SSI.ipynb for data preprocessing and CGAN model
