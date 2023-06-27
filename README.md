@@ -1,3 +1,3 @@
-# Data-for-Precipitation-nowcasting
+# Data for Precipitation nowcasting
 
 
